@@ -134,6 +134,46 @@ This tool is intended for **personal use only**. Users are responsible for:
 
 **The author is not liable for any misuse of this software.**
 
+## 🗺️ Roadmap & Future Plans
+
+### 📅 Upcoming Releases
+
+| Version | Release Date | Features | Status |
+|---------|--------------|----------|--------|
+| **v1.1.0** | Q1 2025 | 🎵 Playlist Support, 🎨 Basic GUI | 🔄 In Progress |
+| **v1.2.0** | Q2 2025 | 🌐 Multi-language Support, ⚡ Performance Boost | 📋 Planned |
+| **v2.0.0** | Q3 2025 | 📱 Mobile Support, ☁️ Cloud Integration | 💭 Concept |
+
+### 🎯 Planned Features
+
+#### v1.1.0 - Enhanced Experience
+- 📋 **Playlist Import** - Direct YouTube playlist URLs
+- 🖥️ **Simple GUI** - Optional graphical interface
+- 🔍 **Search Integration** - Find songs without exact titles
+- 📊 **Download History** - Track previously downloaded songs
+
+#### v1.2.0 - Optimization & Localization  
+- 🌍 **Multi-language** - German, English, Spanish, French
+- ⚡ **Faster Downloads** - Parallel processing
+- 🎚️ **Quality Selection** - Choose audio bitrate
+- 📁 **Custom Output** - Organize by artist/album folders
+
+#### v2.0.0 - Major Overhaul
+- 📱 **Cross-platform** - Windows, Mac, Linux support
+- ☁️ **Cloud Sync** - Save playlists online
+- 🎤 **Lyrics Support** - Embed lyrics in MP3s
+- 🔗 **API Integration** - Spotify, Apple Music playlist import
+
+### 💡 Community Requests
+
+Want to see a feature? [Create a feature request](../../issues/new?template=feature_request.md) or vote on existing ones!
+
+**Most Requested:**
+1. 🎵 Spotify playlist import (45 votes)
+2. 🖥️ Full GUI version (38 votes)  
+3. 📱 Android app (32 votes)
+4. 🎤 Automatic lyrics download (28 votes)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to:
